@@ -20,9 +20,9 @@ Final-year Robotics & Mechatronics Engineering student at the University of Dhak
 
 Adapted joint-embedding predictive pretraining to 2.5D CT slice pairs and tested which natural-image design choices survive the shift to volumetric medical data.
 
-- Designed controlled leave-one-out ablations for slice separation and masking strategy
+- Ran a controlled 2×2 factorial study of context–target slice separation and masking geometry; slice separation dominated, and the two factors interacted non-additively
 - Evaluated data efficiency through linear probing and end-to-end fine-tuning across five label budgets
-- Corroborated the central finding with SwinUNETR, a held-out CT dataset, and CT-to-MR transfer
+- Tested robustness with a matched SwinUNETR comparison, cross-dataset transfer to AMOS-CT, and CT-to-MR transfer without MR pretraining
 - Quantified run-to-run reliability with repeated seeds and Welch's t-tests
 
 `PyTorch` `I-JEPA` `ViT` `Self-Supervised Learning` `Medical Segmentation` `SwinUNETR`
