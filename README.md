@@ -80,8 +80,8 @@ Worked with ROS 2, STM32 motor control, URDF/Xacro modeling, mobile-robot kinema
 ## Highlights
 
 - **Champion**, [Insight 2.0 Datathon 2026](https://github.com/ajmainapon/datathon-Insight2.0-NeurAps) (79 teams), IASDS Students' Club, University of Dhaka
-- **President**, RMEDU Student Club — April 2026 to present
-- **Program Coordinator**, IEEE Robotics & Automation Society, University of Dhaka — March 2024 to 2025
+- **President**, Robotics & Mechatronics Student Club, University of Dhaka — October 2025 to present
+- **Program Coordinator**, IEEE Robotics & Automation Society, University of Dhaka — March 2024 to April 2025
 
 ---
 
