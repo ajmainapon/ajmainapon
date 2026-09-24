@@ -8,7 +8,7 @@
 
 Final-year Robotics & Mechatronics Engineering student at the University of Dhaka. I study label-efficient visual representation learning, predictive world-model objectives (JEPA), medical image analysis, and reliable control of generative models.
 
-[Portfolio](https://ajmainapon.github.io) · [LinkedIn](https://www.linkedin.com/in/ajmain-istiak-902672140/) · [Email](mailto:ajmain.apon123@gmail.com)
+[Portfolio](https://ajmainapon.github.io) · [LinkedIn](https://www.linkedin.com/in/ajmain-istiak-apon-902672140/) · [Email](mailto:ajmain.apon123@gmail.com)
 
 </div>
 
@@ -91,6 +91,6 @@ I am applying to PhD programs for Fall 2027, with particular interest in self-su
 
 <div align="center">
 
-[View my portfolio](https://ajmainapon.github.io) · [Connect on LinkedIn](https://www.linkedin.com/in/ajmain-istiak-902672140/) · [Email me](mailto:ajmain.apon123@gmail.com)
+[View my portfolio](https://ajmainapon.github.io) · [Connect on LinkedIn](https://www.linkedin.com/in/ajmain-istiak-apon-902672140/) · [Email me](mailto:ajmain.apon123@gmail.com)
 
 </div>
