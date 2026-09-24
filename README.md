@@ -40,17 +40,17 @@ My undergraduate thesis audits training-free predicted-memorability guidance by 
 
 ### AI-Assisted Stomatal Phenotyping
 
-A cross-disciplinary chickpea study benchmarked instance-segmentation systems for guard-cell complexes and stomatal pores under control and drought conditions.
+Second author, submitted to *Frontiers in Plant Science*: *Stomatal Phenotyping Under Drought Stress in Chickpea (Cicer arietinum L.) Using Deep-Learning Instance-Segmentation Models.* I carried out the deep-learning analysis and co-wrote the manuscript.
 
-- Benchmark scale: **506 microscopy images** and **6,605 annotated instances**
-- Evaluation design: 359 training, 99 validation, and 48 locked test images
+- Benchmark scale: **512 microscopy images** and **7,424 annotated instances** (guard-cell complexes and pores)
+- Evaluation design: 359 training, 77 validation, and 76 locked test images; three training seeds per architecture
 - Model comparison: YOLOv8s-seg, YOLO26s-seg, and Mask R-CNN under a common test protocol
-- Main limitation: small-pore segmentation, followed by the need for repeated runs and external validation
+- Main finding: pore segmentation, not architecture choice, is the bottleneck (pore AP 0.05–0.17 vs. guard-cell AP 0.70–0.82)
 
-| Best observed test result | Model | Mask AP |
+| Best pooled test result (mean ± SD, 3 seeds) | Model | Mask AP |
 | :-- | :-- | --: |
-| IoU 0.50 | YOLO26s-seg | 0.638 |
-| IoU 0.50:0.95 | Mask R-CNN | 0.428 |
+| IoU 0.50 | YOLO26s-seg | 0.605 ± 0.011 |
+| IoU 0.50:0.95 | Mask R-CNN | 0.440 ± 0.008 |
 
 `PyTorch` `Ultralytics` `Mask R-CNN` `Instance Segmentation` `Roboflow`
 
