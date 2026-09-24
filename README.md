@@ -4,11 +4,11 @@
 
 ### Computer Vision & Machine Learning Researcher
 
-**Medical Imaging · Self-Supervised Learning · Generative Models**
+**Self-Supervised Learning · World Models · Medical Imaging · Generative Models**
 
-Final-year Robotics & Mechatronics Engineering student at the University of Dhaka. I study label-efficient visual representation learning, medical image analysis, and reliable control of generative models.
+Final-year Robotics & Mechatronics Engineering student at the University of Dhaka. I study label-efficient visual representation learning, predictive world-model objectives (JEPA), medical image analysis, and reliable control of generative models.
 
-[Portfolio](https://ajmainapon.github.io) · [LinkedIn](https://www.linkedin.com/in/ajmain-istiak-902672140/) · [Email](mailto:ajmain.apon123@gmail.com) · [Codeforces](https://codeforces.com/profile/fynm)
+[Portfolio](https://ajmainapon.github.io) · [LinkedIn](https://www.linkedin.com/in/ajmain-istiak-902672140/) · [Email](mailto:ajmain.apon123@gmail.com)
 
 </div>
 
@@ -56,13 +56,7 @@ A cross-disciplinary chickpea study benchmarked instance-segmentation systems fo
 
 ---
 
-## Selected Projects
-
-### FastAPI Blog API
-
-Developed a multi-router REST API with JWT authentication, OAuth2 password flow, SQLAlchemy persistence, Pydantic v2 validation, and dependency-injected database sessions.
-
-`FastAPI` `SQLAlchemy` `Pydantic` `PostgreSQL` `JWT` `OAuth2`
+## Other Work
 
 ### Robotics & Embedded Systems
 
@@ -76,17 +70,16 @@ Worked with ROS 2, STM32 motor control, URDF/Xacro modeling, mobile-robot kinema
 
 | Area | Technologies |
 | :-- | :-- |
-| Machine learning | PyTorch, torchvision, timm, Ultralytics, scikit-learn, OpenCV |
-| Research methods | Self-supervised learning, medical segmentation, instance segmentation, diffusion guidance |
-| Backend & data | FastAPI, SQLAlchemy, Pydantic, PostgreSQL |
+| Machine learning | PyTorch, torchvision, timm, MONAI, Hugging Face, Ultralytics, scikit-learn, OpenCV |
+| Research methods | Self-supervised pretraining (JEPA), medical segmentation, instance segmentation, diffusion guidance, controlled ablations |
 | Robotics | ROS 2, STM32, URDF/Xacro |
-| Languages & tools | Python, C++, C, SQL, JavaScript, LaTeX, Git, Linux |
+| Languages & tools | Python, C++, C, LaTeX, Git, Linux |
 
 ---
 
 ## Highlights
 
-- **500+ algorithmic problems solved** across Codeforces and VJudge
+- **Champion**, [Insight 2.0 Datathon 2026](https://github.com/ajmainapon/datathon-Insight2.0-NeurAps) (79 teams), IASDS Students' Club, University of Dhaka
 - **President**, RMEDU Student Club — April 2026 to present
 - **Program Coordinator**, IEEE Robotics & Automation Society, University of Dhaka — March 2024 to 2025
 
@@ -94,7 +87,7 @@ Worked with ROS 2, STM32 motor control, URDF/Xacro modeling, mobile-robot kinema
 
 ## Current Direction
 
-I am preparing for graduate research in computer vision, with particular interest in self-supervised representation learning, label-efficient medical imaging, and controllable generative models. I am open to research collaborations and research-oriented opportunities aligned with these areas.
+I am applying to PhD programs for Fall 2027, with particular interest in self-supervised representation learning and world models, label-efficient medical imaging, and controllable generative models. I am open to research collaborations aligned with these areas.
 
 <div align="center">
 
