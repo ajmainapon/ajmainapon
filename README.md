@@ -3,7 +3,7 @@
 # Md. Ajmain Istiak Apon
 
 **Machine Learning Researcher & AI Systems Builder**  
-*Self-Supervised World Models (JEPA) · Medical Imaging · Controllable Diffusion · Robotics*
+*Self-Supervised World Models (JEPA) · LLM Reasoning & Self-Correction · Medical Imaging · Controllable Diffusion · Robotics*
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-ajmainapon.github.io-0F172A?style=flat-square&logo=vercel&logoColor=white)](https://ajmainapon.github.io)
 [![Stride AI](https://img.shields.io/badge/Founder-Stride_AI_(strideaihq.com)-1D4ED8?style=flat-square)](https://strideaihq.com)
@@ -17,8 +17,9 @@
 
 ### ⚡ About Me
 
-- 🎓 Final-year **Robotics & Mechatronics Engineering** student at the **University of Dhaka** *(applying for **Fall 2027 PhD** in Self-Supervised Learning, World Models & Medical Vision)*.
-- 🔬 I research **what actually transfers** when visual models leave clean benchmarks—from **2.5D CT JEPA pretraining** and **Goodhart auditing in diffusion guidance** to **clinical/agricultural instance segmentation**.
+- 🎓 Final-year **Robotics & Mechatronics Engineering** student at the **University of Dhaka** *(applying for **Fall 2027 PhD** in Self-Supervised Learning, World Models, LLM Post-Training & Medical Vision)*.
+- 🔬 I research **what actually transfers** when models leave clean benchmarks—from **2.5D CT JEPA pretraining**, **auditing navigation world models** and **Goodhart auditing in diffusion guidance** to **clinical/agricultural instance segmentation**.
+- 🧠 Recently broadened into **LLM post-training & test-time compute**: when should a model keep, repair, or restart its own answer? I build **action-relative controllers for selective self-correction** that know when *not* to edit.
 - 🚀 Co-founder & CEO at **[Stride AI](https://strideaihq.com)** — building production workflow agents, Bangla/English document intelligence (RAG + OCR), and scientific computer vision systems.
 
 ---
@@ -55,11 +56,12 @@
 
 ```text
 ML & Vision   │ PyTorch · timm · MONAI · Hugging Face · Ultralytics · Detectron2 / Mask R-CNN · OpenCV
-Research      │ Self-Supervised Learning (I-JEPA) · Diffusion Guidance (DDIM/SDXL) · Rigorous Statistical Ablations
+Research      │ Self-Supervised Learning (I-JEPA) · World Models · Diffusion Guidance (DDIM/SDXL) · Rigorous Statistical Ablations
+LLMs          │ Post-Training (LoRA · SFT · DPO) · Selective Self-Correction · Test-Time Compute Routing · Hidden-State Probes
 AI Systems    │ Hybrid RAG · Vision-LLM OCR · Multi-Agent Guardrails · FastAPI · Docker · Linux
 Robotics & HW │ ROS 2 · STM32 · C / C++ · Python · URDF/Xacro · LaTeX · Git
 ```
 
 <div align="center">
-  <sub>Open to <b>Fall 2027 PhD opportunities</b> and research collaborations in SSL, World Models, Medical Imaging & Generative AI.</sub>
+  <sub>Open to <b>Fall 2027 PhD opportunities</b> and research collaborations in SSL, World Models, LLM Reasoning & Post-Training, Medical Imaging & Generative AI.</sub>
 </div>
